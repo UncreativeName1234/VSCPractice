@@ -7,3 +7,7 @@ html {
 p {
     font-size: 2em;
 }
+
+img {
+    border: 2pt soild #00ff00
+}
